@@ -1,16 +1,9 @@
 # pdf_send
 
-A new Flutter project.
+In this Flutter project, users input data through a form.
 
-## Getting Started
+After the data is entered, a PDF is created by clicking the "Generate PDF" button.
 
-This project is a starting point for a Flutter application.
+Users can then press the "Share on WhatsApp" button.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The PDF is sent to the WhatsApp number provided by the user.
